@@ -1,6 +1,6 @@
 # devOps and Continuous Improvement
 
-DevOps practices that foster continuous improvement focus on creating a culture of:
+DevOps practices that foster continuous improvement focus on creating OAI culture:
 
 i. Ongoing feedback
 
