@@ -182,10 +182,11 @@ By leveraging various types of automated tests (unit, integration, API, etc.), D
 
 ## Associated resources
 
-1. https://github.com/kukuu/integration/blob/main/REST-API-and-MACH-architecture.md
-2. https://github.com/kukuu/integration/blob/main/automated-tests.md
-3. https://github.com/kukuu/integration/blob/main/automation-QA-in-CICD.md
-4. https://github.com/kukuu/integration/blob/main/devOps-qualityPractices-Tests-IaC.md
-5. https://github.com/kukuu/integration/blob/main/common-integration-tasks.md
-6. https://github.com/kukuu/integration/blob/main/containerisation.md
-7. https://github.com/kukuu/integration/blob/main/jwt.md
+1. https://github.com/kukuu/devops.md/blob/main/README.md
+2. https://github.com/kukuu/integration/blob/main/REST-API-and-MACH-architecture.md
+3. https://github.com/kukuu/integration/blob/main/automated-tests.md
+4. https://github.com/kukuu/integration/blob/main/automation-QA-in-CICD.md
+5. https://github.com/kukuu/integration/blob/main/devOps-qualityPractices-Tests-IaC.md
+6. https://github.com/kukuu/integration/blob/main/common-integration-tasks.md
+7. https://github.com/kukuu/integration/blob/main/containerisation.md
+8. https://github.com/kukuu/integration/blob/main/jwt.md
